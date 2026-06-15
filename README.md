@@ -1,5 +1,4 @@
 # weather-app
-#  Weather App
 
 ##  Project Overview
 This is a Weather Application built using React.js. It fetches real-time weather data from OpenWeatherMap API and displays weather information for any city.
